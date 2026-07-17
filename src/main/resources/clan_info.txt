@@ -1,0 +1,14 @@
+== Mostly Hard ==
+
+Welcome to the Mostly Hard clan plugin!
+
+Edit this file (src/main/resources/clan_info.txt) to write
+anything you'd like clan members to see on the About tab —
+rules, goals, lore, contacts, whatever fits.
+
+--- Rules ---
+1. Hardcore Ironman only
+2. Have fun
+
+--- Contact ---
+Discord: discord.gg/mostlyhard
